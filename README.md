@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="release/CatatDuitAi-v1.0.0.apk?raw=true"><img src="https://img.shields.io/badge/Download%20APK-v1.0.0%20(56MB)-success?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" /></a>
+  <a href="https://github.com/InvasiaId/CatatDuitAI/releases/download/v1.0.0/CatatDuitAi-v1.0.0.apk"><img src="https://img.shields.io/badge/Download%20APK-v1.0.0%20(56MB)-success?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" /></a>
+  <a href="https://github.com/InvasiaId/CatatDuitAI/releases/latest"><img src="https://img.shields.io/badge/GitHub-Releases-blue?style=for-the-badge&logo=github&logoColor=white" alt="Releases" /></a>
   <a href="USER_GUIDE.md"><img src="https://img.shields.io/badge/Panduan%20Pengguna-USER_GUIDE.md-orange?style=for-the-badge&logo=readme&logoColor=white" alt="User Guide" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Lisensi-MIT-blue?style=for-the-badge" alt="License" /></a>
 </p>
@@ -13,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-6.0%2B%20(API%2023%2B)-3DDC84?logo=android&logoColor=white" alt="Android Version" />
   <img src="https://img.shields.io/badge/Telegram%20Bot-Terhubung%20Omnichannel-26A5E4?logo=telegram&logoColor=white" alt="Telegram" />
-  <img src="https://img.shields.io/badge/Status-Stable%20Release-brightgreen" alt="Status" />
+  <img src="https://img.shields.io/badge/Release-v1.0.0-brightgreen" alt="Status" />
 </p>
 
 ---
@@ -26,13 +27,13 @@ Aplikasi ini terhubung langsung secara **omnichannel** dengan **Bot Telegram**, 
 
 ---
 
-## 📥 Unduh Aplikasi (Download APK)
+## 📥 Unduh Aplikasi (Download APK dari GitHub Releases)
 
-Anda dapat mengunduh installer APK resmi langsung dari repositori ini:
+Anda dapat mengunduh installer APK resmi langsung dari tab **GitHub Releases**:
 
-| Berkas Installer | Versi | Ukuran | Tautan Unduh Langsung |
+| Berkas Installer | Versi | Ukuran | Tautan Unduh Resmi (GitHub Releases) |
 | :--- | :---: | :---: | :--- |
-| **`CatatDuitAi-v1.0.0.apk`** | `v1.0.0` | 56.0 MB | [⬇️ **Download File APK Langsung**](release/CatatDuitAi-v1.0.0.apk?raw=true) |
+| **`CatatDuitAi-v1.0.0.apk`** | `v1.0.0` (Latest) | 56.0 MB | [⬇️ **Download File APK Langsung**](https://github.com/InvasiaId/CatatDuitAI/releases/download/v1.0.0/CatatDuitAi-v1.0.0.apk) • [📦 **Lihat Halaman Rilis**](https://github.com/InvasiaId/CatatDuitAI/releases/tag/v1.0.0) |
 
 ### 🛡️ Verifikasi Integritas File (SHA-256 Checksum)
 Untuk menjamin keaslian dan keamanan berkas installer, Anda dapat mencocokkan nilai hash SHA-256:
@@ -46,7 +47,7 @@ Untuk menjamin keaslian dan keamanan berkas installer, Anda dapat mencocokkan ni
 ## ⚡ Panduan Instalasi & Login Cepat
 
 ### 1. Pemasangan Aplikasi di Ponsel (Sideloading):
-1. Unduh berkas [`CatatDuitAi-v1.0.0.apk`](release/CatatDuitAi-v1.0.0.apk?raw=true).
+1. Unduh berkas [**CatatDuitAi-v1.0.0.apk**](https://github.com/InvasiaId/CatatDuitAI/releases/download/v1.0.0/CatatDuitAi-v1.0.0.apk).
 2. Buka file hasil unduhan di perangkat Android Anda.
 3. Jika muncul dialog perizinan sistem, aktifkan opsi **"Izinkan penginstalan aplikasi dari sumber ini"** (*Allow from this source*).
 4. Ketuk **Instal** dan tunggu hingga proses selesai.
